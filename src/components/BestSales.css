@@ -1,0 +1,40 @@
+.bestsales-item {
+	display: flex;
+	padding: 34px 28px;
+	box-sizing: border-box;
+	max-width: 370px;
+	width: 100%;
+	background: #fff;
+	margin-bottom: 115px;
+	cursor: pointer;
+}
+
+.bestsales-item-picture {
+	display: flex;
+	padding-right: 30px;
+}
+
+.bestsales-item-info {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.bestsales-item-info h3 {
+	padding-bottom: 15px;
+	font-size: 18px;
+	color: #34404b;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+.bestsales-item-info-rateprice {
+	display: flex;
+	justify-content: space-between;
+}
+
+.bestsales-item-info-rateprice span {
+	font-size: 16px;
+	color: #ff5912;
+	font-weight: bold;
+}

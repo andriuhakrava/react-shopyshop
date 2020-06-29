@@ -1,0 +1,27 @@
+.products-row-home {
+	max-width: 270px;
+	width: 100%;
+	margin-bottom: 78px;
+	padding: 30px 50px;
+	box-sizing: border-box;
+	text-align: center;
+	background: #fff;
+	cursor: pointer;
+}
+
+.products-item span {
+	color: orange;
+}
+
+.products-header {
+	padding: 30px 0;
+	font-size: 16px;
+	font-weight: bold;
+	color: #34404b;
+}
+
+.products-price {
+	font-size: 16px;
+	font-weight: bold;
+	color: #ff5912;
+}

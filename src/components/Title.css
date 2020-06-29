@@ -1,0 +1,18 @@
+.section-title {
+	padding: 120px 0 80px;
+	font-size: 16px;
+	color: #495662;
+	text-align: center;
+}
+
+.section-header {
+	padding-bottom: 25px;
+	font-size: 36px;
+	font-weight: bold;
+	color: #34404b;
+	text-transform: uppercase;
+}
+
+.section-header > span {
+	color: #ff5912;
+}

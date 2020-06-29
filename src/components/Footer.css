@@ -1,0 +1,44 @@
+footer {
+	padding: 88px 0;
+	font-size: 14px;
+	color: #28313b;
+}
+
+.copyright {
+	padding-top: 20px;
+}
+
+.footer-content {
+	display: flex;
+	align-items: center;
+}
+
+.footer-menu {
+	list-style-type: disc;
+}
+
+.footer-menu-part {
+	display: inline-block;
+	width: 33%;
+	vertical-align: top;
+}
+
+.footer-menu-part li {
+	padding-bottom: 7px;
+}
+
+.payment-header {
+	font-size: 16px;
+	font-weight: bold;
+	color: #ff5912;
+	text-transform: capitalize;
+}
+
+.payment-list li {
+	display: inline-block;
+	margin-right: 6px;
+}
+
+.payment-list li:last-child {
+	margin-right: 0;
+}

@@ -1,0 +1,46 @@
+.newsletter-section {
+	display: flex;
+	align-items: center;
+	padding: 36px 27px;
+	background: #fff;
+}
+
+.newsletter-header {
+	font-size: 18px;
+	font-weight: bold;
+	color: #ff5912;
+	text-transform: uppercase;
+}
+
+.newsletter-text {
+	font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+	color: #34404b;
+}
+
+.mail-link-text {
+	padding-left: 10px;
+	color: #858f98;
+	font-size: 14px;
+	font-style: italic;
+}
+
+.btn-registration-wrapper {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.btn-registration {
+	width: 100px;
+	height: 50px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	background: #ff5912;
+	border: none;
+}
+
+.btn-registration:hover {
+	cursor: pointer;
+}

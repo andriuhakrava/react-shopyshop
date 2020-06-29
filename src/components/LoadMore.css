@@ -1,0 +1,25 @@
+.loadmore-box {
+	background: #fff;
+	padding: 25px 0;
+	margin-bottom: 120px;
+	text-align: center;
+}
+
+.loadmore-box:hover {
+	cursor: pointer;
+}
+
+.loadmore-box-dot {
+	display: inline-block;
+	margin-right: 6px;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: #ff5912;
+}
+
+.loadmore-box-text {
+	font-size: 16px;
+	font-weight: bold;
+	color: #ff5912;
+}
